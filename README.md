@@ -42,11 +42,6 @@ Captain Focus Approved ✅
 
 ## 🐞 Reporting Bugs
 
-If you spot any issues or have feedback, feel free to open an "Issue" in this repo!
 
-## ✅ Next Steps
 
-- Upload this README.md to your GitHub repository.
-- Upload the test plan document.
-- Share your repo link with your teacher!
 
